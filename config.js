@@ -84,8 +84,8 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'MIMIBOT HIROSSHH'
+global.author = 'Hirosshy mimiru'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
@@ -103,7 +103,7 @@ global.country = '' //agrega tú país ejemplo: 🇪🇨
 global.vs = '1.3.2-(beta)'
 global.vsJB = '4.5 (Beta)'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.gt = 'HIRO BOT'
 global.yt = 'https://chat.whatsapp.com/LZfA6q8ENaZ9qquoqVHqTD'
 global.yt2 = 'https://chat.whatsapp.com/LZfA6q8ENaZ9qquoqVHqTD'
 global.ig = 'https://chat.whatsapp.com/LZfA6q8ENaZ9qquoqVHqTD'
@@ -126,8 +126,8 @@ global.nnnttt5 = 'https://chat.whatsapp.com/LZfA6q8ENaZ9qquoqVHqTD' //A.T.M.M
 global.paypal = 'https://chat.whatsapp.com/LZfA6q8ENaZ9qquoqVHqTD'
 global.asistencia = 'Wa.me/+584126897998' //Dudas? escríbeme...
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = 'Hirobot : TITO :3 '
+global.igfg = 'TITO BOT'
 global.nomorown = owner[0][0]
 
 global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
